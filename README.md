@@ -4,7 +4,7 @@ I'm **Nisa**, a software engineering student focused on building my expertise in
 
 ### 📚 Academic Publications
 
-Here are some of my published works:
+Here are my published works:
 
 * [Use of Classification Algorithms in the Determination of Diabetes Level and Drug Recommendation Process](https://ieeexplore.ieee.org/abstract/document/11016981)
 * [Guideline-Concordant Two-Stage AI for Diabetes Severity Stratification and Pharmacotherapy Recommendation](https://link.springer.com/chapter/10.1007/978-3-032-07267-2_11)
